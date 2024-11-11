@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vignesh V
+- 👀 I’m interested in graphics programming
+- 🎓 Currently I'm pursuing AIDS in Shiv Nadar University.
+- 🌱 I’m currently learning Deep learning and Machine Learning
+- 📫 How to reach me VigneshVelmurugan542@gmail.com
