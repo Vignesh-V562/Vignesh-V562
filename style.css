@@ -673,8 +673,8 @@ a:hover {
 .skill-item:hover .skill-logo,
 .skill-item:hover .skill-logo-img,
 .skill-item:hover .skill-name {
-    color: var(--primary-bg); /* Change icon/text color on hover */
-    filter: brightness(1.2); /* Make logos brighter on hover */
+    color: var(--primary-bg); 
+    filter: brightness(1.2); 
 }
 
 /* Skill Proficiency Bar */
@@ -683,9 +683,9 @@ a:hover {
     bottom: 0;
     left: 0;
     height: 5px;
-    background-color: #4CAF50; /* Green for proficiency */
-    width: 0; /* Initial width */
-    transition: width 1s ease-out; /* Animation for width */
+    background-color: #BE93D4; 
+    width: 0; 
+    transition: width 1s ease-out; 
     border-radius: 0 0 10px 10px;
 }
 .skill-item:hover .proficiency-bar {
